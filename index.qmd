@@ -1,0 +1,32 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "IMG_1244.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/atticus-kenny-rehs-a-ipc-442091300
+    - icon: envelope
+      text: Email
+      href: "mailto:axk1874@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website
+
+I am Atticus Kenny a public health practitioner and current Masters of Public Health candidate at Case Western Reserve University. I have dedicated my personal and professional life to promoting and protecting better health outcomes for all the communities I serve, interact with and live within. On this website, I offer a synopsis of my skill sets, working experience, and future interest. 
+
+I offer over 5 years of experience in the field of environmental health with work in compliance, regulation, surveillance, covid emergency response and community outreach initiatives.  I am currently acting as a program coordinator in the environmental health division of Summit County Public Health. I Offer a broad skill set in programmatic development, contract execution, workflow process analysis, and training.
+
+ I invite you to explore my website and learn more about me and my work as both a community member and a professional.
+Please feel free to [contact me](mailto:axk1874@case.edu) if you have any questions or would like to discuss potential projects.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+

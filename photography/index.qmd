@@ -1,0 +1,28 @@
+---
+title: "Certifications"
+---
+
+Certified in Associate – Infection Prevention and Control (a-IPC)™
+
+Issued by: Certification Board of Infection Control and Epidemiology, Inc.
+
+Issued: 2024
+
+Expiration: 2029
+
+Registered Environmental Health Specialist (REHS)
+
+Registration Number: REHS003996
+
+Issued by: Ohio Department of Health 
+
+Original Issued: 2022
+
+Expiration:2026
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
